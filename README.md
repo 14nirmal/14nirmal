@@ -46,17 +46,6 @@ I believe great software is more than just writing code. It should be **modular,
 - **Tools:** Git, GitHub, Docker, Linux, Postman
 ---
 
-# 📈 GitHub Statistics
-
-<!-- GitHub Stats -->
-
-![](https://github-readme-stats.vercel.app/api?username=14nirmal&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=14nirmal&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=14nirmal&layout=compact&theme=tokyonight&hide_border=true)
-
----
 # 🚀 Featured Projects
 
 ## ⚖️ ContractIQ
